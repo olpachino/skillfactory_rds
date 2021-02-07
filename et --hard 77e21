@@ -1,0 +1,58 @@
+[33mab561c9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: reset: moving to HEAD~1
+[33m0047328[m HEAD@{1}: reset: moving to HEAD~2
+[33m27b6ecb[m HEAD@{2}: revert: Revert "Add notebooks for Parsing"
+[33md57c3a9[m HEAD@{3}: commit: Add notebooks for Parsing
+[33m0047328[m HEAD@{4}: reset: moving to HEAD
+[33m0047328[m HEAD@{5}: reset: moving to HEAD
+[33m0047328[m HEAD@{6}: commit: Add notebooks for Parsing
+[33mab561c9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{7}: commit: Add notebook for MS_Module-06
+[33m446ef7d[m HEAD@{8}: commit: Add Py_Module-16-03_API
+[33me9c7429[m HEAD@{9}: pull: Fast-forward
+[33m5edd69d[m HEAD@{10}: pull: Fast-forward
+[33m0b6944a[m HEAD@{11}: commit: Creat ML_Module-06+ and add working materials
+[33m0c0f4ef[m HEAD@{12}: commit: Add Module-05+
+[33med501f4[m HEAD@{13}: commit: Creat Unit06 and add ML_Module-05
+[33m242acb5[m HEAD@{14}: commit: In U05 add ML_Module-04 and datasets
+[33mb7f031e[m HEAD@{15}: commit: Final Module-5 Credit Scoring
+[33m972e3f5[m HEAD@{16}: commit: Create Module-5 Credit scoring model
+[33m24cfd91[m HEAD@{17}: commit: Create SF_Module-05_project-01
+[33me1480cd[m HEAD@{18}: pull: Fast-forward
+[33mf3df7d3[m HEAD@{19}: commit: Added materials by ML_Module-3B
+[33m2c55c48[m HEAD@{20}: commit: Add SF_LR1 and SF_LR2 from ML_Module-03A
+[33m61d7040[m HEAD@{21}: pull: Fast-forward
+[33m254e4b4[m HEAD@{22}: commit: Create PY_Module-14
+[33meef6df4[m HEAD@{23}: commit: Create MS_Module-05
+[33mb35b034[m HEAD@{24}: commit: Add U05 and Descriptive_stats
+[33mdc3d532[m HEAD@{25}: commit: Create module_3 and SF-Module03-TripAdvisor Rating
+[33m1c7923a[m HEAD@{26}: commit: End U03
+[33mf0766ba[m HEAD@{27}: pull: Fast-forward
+[33m4937427[m HEAD@{28}: commit: Edit SF_Unit03_ML
+[33m8f991a8[m HEAD@{29}: commit: Edit SF_Unit03_ML
+[33m67a8a2d[m HEAD@{30}: commit: Edit SF_Unit03_ML and your_first_model
+[33m0cf33bc[m HEAD@{31}: pull: Fast-forward
+[33mf741104[m HEAD@{32}: commit: Create PY_Module_13-5
+[33m445f2f5[m HEAD@{33}: commit: Edit PY_Module_13-4
+[33m14ac076[m HEAD@{34}: pull: Fast-forward
+[33m0093ab7[m HEAD@{35}: commit: Creat PY_Module_13-3
+[33m5453679[m HEAD@{36}: commit: Create PY_Module_13-2
+[33m58b3062[m HEAD@{37}: commit: Edit PY_Module_13-1
+[33m0106da0[m HEAD@{38}: pull: Fast-forward
+[33m2c5b0a1[m HEAD@{39}: commit: Edit ML_Module_02
+[33ma62703b[m HEAD@{40}: commit: Edit ML_Module_02
+[33m0be19fa[m HEAD@{41}: pull: Fast-forward
+[33md6f528b[m HEAD@{42}: commit: Add MS_Module_02
+[33m533f759[m HEAD@{43}: commit: Edit MS_Module_01
+[33m916b4cb[m HEAD@{44}: commit: Edit MS_Module_01
+[33m911a401[m HEAD@{45}: commit: Creat MS_Module_1
+[33m246b856[m HEAD@{46}: commit: Edit PY_Module_12
+[33m16b967a[m HEAD@{47}: commit: Rename and edit PY_Module_12
+[33m3216ff5[m HEAD@{48}: pull: Fast-forward
+[33mf09396c[m HEAD@{49}: commit: Edit PY_Module_11
+[33m1bd99b6[m HEAD@{50}: pull: Fast-forward
+[33me802812[m HEAD@{51}: pull: Fast-forward
+[33m07d3b27[m HEAD@{52}: commit: Add U03
+[33mee04fe3[m HEAD@{53}: commit: Add README for Project Unit_02_EDA
+[33m65e9d28[m HEAD@{54}: pull: Fast-forward
+[33m239cbd3[m HEAD@{55}: commit: Creat new project Unit02_EDA
+[33mf17da75[m HEAD@{56}: pull: Fast-forward
+[33m2b02e88[m HEAD@{57}: clone: from https://github.com/olpachino/skillfactory_rds.git
